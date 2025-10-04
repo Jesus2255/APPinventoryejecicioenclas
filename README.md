@@ -1,6 +1,8 @@
 ○ Prompts clave usados (copiar y pegar 5–8).
 
 
+
+
 ○ Capturas (lista, crear, actualizar, eliminar, búsqueda).
 
 
